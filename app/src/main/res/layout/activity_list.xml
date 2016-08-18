@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".RSSListView" >
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginTop="40dp" />
+
+    <TableLayout
+        android:layout_gravity="center_vertical"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@color/colorAccent">
+
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+    <TextView
+        android:id="@+id/feedTitleTextView"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="28sp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/textColor"/>
+    </TableRow>
+    </TableLayout>
+
+
+</RelativeLayout>

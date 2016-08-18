@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical|center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:transitionGroup="true">
+
+    <TableLayout
+        android:layout_gravity="center_vertical"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+
+
+            <TextView
+                android:id="@+id/itemTitleTextView"
+                android:layout_column="0"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/item_title"
+                android:textSize="32sp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_gravity="left"
+                android:paddingLeft="8dp"
+                android:paddingRight="24dp"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginBottom="8dp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+
+            <TextView
+                android:layout_gravity="center_vertical"
+                android:id="@+id/descriptionTextView"
+                android:layout_column="0"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/description"
+                android:textSize="16sp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:padding="8dp"
+                android:layout_marginBottom="8dp"
+                android:gravity="center_vertical" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content">
+
+            <Button
+                android:id="@+id/readMeButton"
+                android:layout_column="0"
+                android:text="@string/read_more"
+                android:layout_width="64dp"
+                android:layout_height="40dp"
+                android:layout_gravity="right"
+                android:textColor="@color/textColor"
+                android:elevation="2dp"
+                android:translationZ="10dp"
+                android:background="@color/colorAccent"
+                android:textSize="16sp"
+                android:layout_marginTop="8dp"
+                android:paddingLeft="8dp"
+                android:backgroundTintMode="src_atop"
+                android:paddingRight="8dp" />
+
+        </TableRow>
+
+
+    </TableLayout>
+
+
+
+</RelativeLayout>

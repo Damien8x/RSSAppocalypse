@@ -1,0 +1,39 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:navigationBarColor">@color/navigationBarColor</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+    </style>
+
+    <style name="tilesPortrait" parent="@android:style/Widget.ImageButton">
+        <item name="android:layout_height">184dp</item>
+        <item name="android:layout_width">168dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:translationZ">6dp</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="tilesLandscape" parent="@android:style/Widget.Button">
+        <item name="android:layout_height">168dp</item>
+        <item name="android:layout_width">304dp</item>
+        <item name="android:textSize">42dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:translationZ">6dp</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+</resources>

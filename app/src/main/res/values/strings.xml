@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">RSS Appocolypse</string>
+
+    <!-- LOGGING, data, not trees -->
+    <string name="error">[ERROR]</string>
+    <string name="item">[ITEM]</string>
+    <string name="notice">[NOTICE]</string>
+    <string name="resolution">[RESOLUTION]</string>
+    <string name="row">[ROW]</string>
+
+    <string name="empty_url">Empty URL</string>
+    <string name="landscape">Landscape</string>
+    <string name="number_of_sprites">Number of sprites</string>
+    <string name="portrait">Portrait</string>
+    <string name="started">Sprite Animation started</string>
+    <string name="thread">Joining thread</string>
+
+    <!-- Buttons -->
+    <string name="button0">Breaking News</string>
+    <string name="button1">Education</string>
+    <string name="button2">Image of the Day</string>
+    <string name="button3">Solar System and Beyond</string>
+    <string name="button4">Kepler Mission</string>
+    <string name="button5">Chandra Mission</string>
+    <string name="button6">Solar System and Beyond</string>
+    <string name="button7">NASA Research Center</string>
+    <string name="read_more">READ MORE</string>
+
+    <string name="no">No</string>
+    <string name="options">Options</string>
+    <string name="yes">Yes</string>
+
+    <!--List view-->
+    <string name="description"></string>
+    <string name="item_title"></string>
+    <string name="feed_title"></string>
+    <string name="feed_description"></string>
+
+    <!-- Settings -->
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+
+    <!-- Text view -->
+    <string name="whoops">Missing data</string>
+
+</resources>

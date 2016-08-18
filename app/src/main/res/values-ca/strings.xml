@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSS Appocolypse</string>
+    <string name="yes">Si</string>
+    <string name="whoops">Les dades que falten</string>
+    <string name="thread">Fil d\'unir-se</string>
+    <string name="started">Animació de sprites començar</string>
+    <string name="row">[FILA]</string>
+    <string name="read_more">LLEGEIX MÉS</string>
+    <string name="options">Opcions</string>
+    <string name="number_of_sprites">Nombre de sprites</string>
+    <string name="notice">Avís</string>
+    <string name="no">No</string>
+    <string name="menu_settings">Ajustos</string>
+    <string name="menu_about">Sobre</string>
+    <string name="item">[ARTICLE]</string>
+    <string name="error">[ERROR]</string>
+    <string name="empty_url">URL buida</string>
+    <string name="button0">Notícies d\'última hora</string>
+    <string name="button1">Educació</string>
+    <string name="button2">Imatge del dia</string>
+    <string name="button3">Sistema solar i més enllà</string>
+    <string name="button4">Missió Kepler</string>
+    <string name="button5">Missió Chandra</string>
+    <string name="button6">Sistema solar i més enllà</string>
+    <string name="button7">Centre d\'investigació de la NASA</string>
+</resources>

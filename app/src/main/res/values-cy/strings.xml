@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSS Appocolypse</string>
+    <string name="button1">Addysg</string>
+    <string name="button0">Newyddion sy\'n torri</string>
+    <string name="button2">Delwedd y diwrnod</string>
+    <string name="button3">Cysawd yr haul a thu hwnt</string>
+    <string name="button4">Cenhadaeth Kepler</string>
+    <string name="button5">Cenhalaeth Chandra</string>
+    <string name="button6">Cysawd yr haul a thu hwnt</string>
+    <string name="button7">Canolfan resarch NASA</string>
+    <string name="empty_url">URL gwag</string>
+    <string name="error">[GWALL]</string>
+    <string name="item">[EITEM]</string>
+    <string name="menu_about">Ynglŷn</string>
+    <string name="no">No Nac oes</string>
+    <string name="notice">Hysbysiad</string>
+    <string name="number_of_sprites">Nifer o sprites</string>
+    <string name="options">Opsiynau</string>
+    <string name="read_more">DARLLEN MWY</string>
+    <string name="menu_settings">Gosodiadau</string>
+    <string name="whoops">Data coll</string>
+    <string name="thread">Ymuno edau</string>
+    <string name="started">Dechreuodd animeiddio sprite</string>
+    <string name="yes">Ie</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSS Appocolypse</string>
+    <string name="button0">Stórfréttir</string>
+    <string name="button1">Menntun</string>
+    <string name="button2">Mynd dagsins</string>
+    <string name="button3">Sólkerfið og Beyond</string>
+    <string name="button4">Kepler Mission</string>
+    <string name="button5">Chandra Mission</string>
+    <string name="button6">Sólkerfið og Beyond</string>
+    <string name="button7">NASA Research Center</string>
+    <string name="empty_url">Tómur URL</string>
+    <string name="error">[VILLA]</string>
+    <string name="item">[ITEM]</string>
+    <string name="menu_about">Um</string>
+    <string name="menu_settings">Stillingar</string>
+    <string name="no">Nei</string>
+    <string name="notice">[TILKYNNING]</string>
+    <string name="number_of_sprites">Fjöldi sprites</string>
+    <string name="options">Valmöguleikar</string>
+    <string name="read_more">LESTU MEIRA</string>
+    <string name="started">Sprite fjör byrjaði</string>
+    <string name="thread">Tengja þráður</string>
+    <string name="whoops">Vantar upplýsingar</string>
+    <string name="yes">Já</string>
+    <string name="row"></string>
+</resources>

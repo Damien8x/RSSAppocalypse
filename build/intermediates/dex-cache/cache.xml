@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\damie\Documents\RSSAppocolypse\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7338480b1246a33793f2b125d6e3508b8ceb82d0">
+        <dex dex="C:\Users\damie\Documents\RSSAppocolypse\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0d85fa563b3777b6952d2279a6a2fc01c6406a64\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\damie\Documents\RSSAppocolypse\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="948884248396a3166d1fc07ff7c327e63114f9be">
+        <dex dex="C:\Users\damie\Documents\RSSAppocolypse\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e869a1703221ffddc9b38e80a8b811cbdc4797dd\classes.dex" />
+    </item>
+
+</items>

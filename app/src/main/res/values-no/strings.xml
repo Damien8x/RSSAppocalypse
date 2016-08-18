@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSS Appocolypse</string>
+    <string name="button0">Siste nytt</string>
+    <string name="button1">Utdannelse</string>
+    <string name="button2">Bilde av dagen</string>
+    <string name="button3">Solsystemet og utover</string>
+    <string name="button4">Kepler misjon</string>
+    <string name="button5">Chandra misjon</string>
+    <string name="button6">Solsystemet og utover</string>
+    <string name="button7">NASA resarch senter</string>
+    <string name="empty_url">Tom URL</string>
+    <string name="error">[FEIL]</string>
+    <string name="item">[ARTIKKEL]</string>
+    <string name="menu_about">I nærheten</string>
+    <string name="menu_settings">Innstillinger</string>
+    <string name="no">Nei</string>
+    <string name="notice">[LEGGE MERKE TIL]</string>
+    <string name="number_of_sprites">Antall Sprites</string>
+    <string name="options">Alternativer</string>
+    <string name="read_more">LES MER</string>
+    <string name="started">Sprite Animasjon Startet</string>
+    <string name="thread">Delta i diskusjonen</string>
+    <string name="whoops">Manglende data</string>
+    <string name="yes">Ja</string>
+    <string name="row">[RAD]</string>
+</resources>
